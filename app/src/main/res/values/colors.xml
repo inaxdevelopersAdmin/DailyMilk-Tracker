@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#5CBFFE</color>
+    <color name="toolbar_color">#5CBFFE</color>
+    <color name="light_blue">#6B60FE</color>
+    <color name="gry">#D7D7FF</color>
+    <color name="black1">#1C1C1C</color>
+    <color name="red">#25A969</color>
+    <color name="green">#5CBFFE</color>
+    <color name="ic_launcher_background">#5CBFFE</color>
+    <color name="background">#FFFFFF</color>
+
+</resources>

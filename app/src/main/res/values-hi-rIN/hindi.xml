@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">दूध डायरी</string>
+    <string name="add_custome">ग्राहक जोड़ें</string>
+    <string name="enter_userName">ग्राहक का नाम</string>
+    <string name="enter_cusAddress">ग्राहक का पूरा पता</string>
+    <string name="enter_cusNumber">ग्राहक संख्या</string>
+    <string name="enter_milktype">दूध का प्रकार</string>
+    <string name="add_Milk">दूध डालें</string>
+    <string name="milk_name">दूध का नाम</string>
+    <string name="milk_quantity">दूध की मात्रा</string>
+    <string name="milk_price">दूध की कीमत</string>
+    <string name="enter_Deposit">जमा राशि दर्ज करें</string>
+    <string name="enter_Card">कार्ड राशि दर्ज करें</string>
+    <string name="enter_Flat">फ़्लैट या रोहाउस नंबर दर्ज करें</string>
+    <string name="my_income">आय</string>
+    <string name="expense">खर्च</string>
+    <string name="CustomerName">ग्राहकनाम</string>
+    <string name="customerType"> ग्राहक प्रकार </string>
+    <string name="customer">ग्राहक</string>
+    <string name="amount">राशि</string>
+    <string name="date">दिनांक</string>
+    <string name="todayMilk">TodayMilk</string>
+    <string name="add_Milk_view">सभी दूध देखें</string>
+    <string name="miilkQunty">दूध की मात्रा</string>
+    <string name="compny">INAxDevelopers</string>
+    <string name="home">घर</string>
+    <string name="product">उत्पाद</string>
+    <string name="Data">डेटा</string>
+    <string name="CustomerName_add">ग्राहक सफलतापूर्वक जोड़ें</string>
+    <string name="Invalid">अमान्य उपयोगकर्ता नाम या पासवर्ड</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="logout_code">क्या आप वाकई लॉगआउट करना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="rate_app">रेट ऐप</string>
+    <string name="add_customer">ग्राहक जोड़ें</string>
+    <string name="view_customer">ग्राहकों को देखें</string>
+    <string name="disabled">यह आइटम अक्षम है</string>
+    <string name="no_data">कोई डेटा नहीं</string>
+    <string name="total_balance">कुल शेष</string>
+    <string name="expenses">खर्च </string>
+    <string name="income">आय</string>
+    <string name="total_customer_balance">कुल ग्राहक शेष</string>
+    <string name="total_milk_balance">कुल दूध संतुलन</string>
+    <string-array name="CustomerType">
+        <item>कार्ड</item>
+        <item>जमा</item>
+    </string-array>
+    <string name='login'>लॉगिन</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="gujarati">गुजराती</string>
+    <string name="changelanguage">भाषा बदलें</string>
+
+
+</resources>

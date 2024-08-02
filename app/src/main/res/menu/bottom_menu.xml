@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/customer"
+        android:icon="@drawable/customer"
+        android:title="@string/customer" />
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/Product"
+        android:icon="@drawable/add_prodcut"
+        android:title="@string/product" />
+    <item
+        android:id="@+id/pdf"
+        android:icon="@drawable/folder"
+        android:title="@string/Data" />
+</menu>

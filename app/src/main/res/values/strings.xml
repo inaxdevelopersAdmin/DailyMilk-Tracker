@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Milk Diary</string>
+    <string name="add_custome">Add Customer</string>
+    <string name="enter_userName">Customer Name</string>
+    <string name="enter_cusAddress">Customer Full Address</string>
+    <string name="enter_cusNumber">Customer Number</string>
+    <string name="enter_milktype">Milk Type</string>
+    <string name="add_Milk">Add Milk</string>
+    <string name="milk_name">Milk Name</string>
+    <string name="milk_quantity">Milk Quantity</string>
+    <string name="milk_price">Milk Price</string>
+    <string name="enter_Deposit">Enter Deposit Amount</string>
+    <string name="enter_Card">Enter Card Amount</string>
+    <string name="enter_Flat">Enter Flat or RowHous Number</string>
+    <string name="my_income">Income</string>
+    <string name="expense">expenses</string>
+    <string name="CustomerName">CustomerName</string>
+    <string name="customerType">CustomerType</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="todayMilk">TodayMilk</string>
+    <string name="add_Milk_view">View All Milk</string>
+    <string name="miilkQunty">Milk quantity</string>
+    <string name="compny">INAxDevelopers</string>
+    <string name="home">Home</string>
+    <string name="customer">Customer</string>
+    <string name="product">Product</string>
+    <string name="Data">Data</string>
+    <string name="CustomerName_add">Customer Add successfully</string>
+    <string name="Invalid">Invalid username or password</string>
+    <string name="logout">Logout</string>
+    <string name="logout_code">Are you sure you want to logout ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="rate_app">Rate App</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="view_customer">View Customers</string>
+    <string name="disabled">This item is disabled</string>
+    <string name="no_data">No Data</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="expenses">Expenses</string>
+    <string name="income">Income</string>
+    <string name="total_customer_balance">Total Customer Balance</string>
+    <string name="total_milk_balance">Total Milk Balance</string>
+    <string name="login">Login</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="changelanguage">Change Language</string>
+    <string-array name="CustomerType">
+        <item>Card</item>
+        <item>Deposit</item>
+    </string-array>
+</resources>
